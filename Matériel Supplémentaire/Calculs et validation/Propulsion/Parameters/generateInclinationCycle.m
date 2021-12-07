@@ -1,9 +1,0 @@
-total = 1092;
-test = zeros(20, 1);
-test = [test; 5*ones(20, 1)];
-test = [test; 0*ones(20, 1)];
-test = [test; 10*ones(20, 1)];
-test = [test; 20*ones(20, 1)];
-test = [test; 25*ones(20, 1)];
-Cycle_Inclination_Zeus = [test; 0*ones(23, 1)];
-Cycle_Inclination_Zeus = Cycle_Inclination_Zeus';
